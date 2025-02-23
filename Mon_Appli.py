@@ -180,7 +180,7 @@ if menu_option == "Voir les datasets existants":
                                           ["Chaussure Web", "Vetement Web"], key="web_dataset")
             file_mapping = {
                 "Chaussure Web": 'Chaussures_hommes_datas_non_clean.csv',
-                "Vetement Web": 'Vetements_hommes_datas_non_clean.csv'
+                "Vetement Web": 'vetements_hommes_datas_non_clean.csv'
             }
    
     # Charger et afficher le dataset sélectionné
