@@ -191,7 +191,7 @@ if menu_option == "Voir les datasets existants":
 # Section "À propos de moi"
 if menu_option == "À propos de moi":
     st.write("## 👋 À propos de moi")
-
+    st.image("at2222.jpg", width=800)
     
     # Description personnelle
     st.write("""
