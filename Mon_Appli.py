@@ -193,7 +193,8 @@ if menu_option == "À propos de moi":
     st.write("## 👋 À propos de moi")
     
     # Image
-    st.image(r"C:\Users\bmd tech\Desktop\AT\at2222.jpg", width=800)
+    #st.image(r"C:\Users\bmd tech\Desktop\AT\at2222.jpg", width=800
+    st.image("images/at2222.jpg", width=800)
     
     # Description personnelle
     st.write("""
